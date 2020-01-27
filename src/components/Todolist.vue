@@ -12,5 +12,6 @@
 <style>
 li {
     color: aqua;
+    font-size: 20px;
 }
 </style>
