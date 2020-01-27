@@ -5,3 +5,13 @@
         </ul>
     </div>
 </template>
+
+<script>
+</script>
+
+<style>
+li {
+    color: green;
+    font-size: 22px;
+}
+</style>
