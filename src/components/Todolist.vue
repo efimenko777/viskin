@@ -12,6 +12,6 @@
 <style>
 li {
     color: green;
-    font-size: 20px;
+    font-size: 22px;
 }
 </style>
