@@ -11,7 +11,7 @@
 
 <style>
 li {
-    color: green;
+    color: rgb(76, 21, 148);
     font-size: 22px;
 }
 </style>
